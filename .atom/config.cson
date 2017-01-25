@@ -1,0 +1,6 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  "exception-reporting":
+    userId: "44eab67c-554c-1182-87d7-08663a0feaac"
+  "linter-rubocop": {}
